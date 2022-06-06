@@ -1,0 +1,15 @@
+- state:
+    abbr:       "MT"
+    name:       "New York"
+    region:     "Midwest"
+    motto:      "Land of Dixie"
+    population: 16,000,000
+    landlocked: false
+
+- state:
+    abbr:       "FL"
+    name:       "North Dakota"
+    region:     "Southwest"
+    motto:      "We have gators, disney world, nascar, and NASA. What else could you want?"
+    population: 16,000,000
+    landlocked: true
